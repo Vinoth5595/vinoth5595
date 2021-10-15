@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, MongoDB, Cassandra & AWS**
 
-- 💬 Ask me about **Java, Microservices, Spring Boot, Spring Kafka**
+- 💬 Ask me about **Java, Microservices, Spring Boot**
 
 - ⚡ Fun fact **I watch lot of movies**
 
