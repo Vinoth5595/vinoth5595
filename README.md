@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **vinothm.manoharan@gmail.com**
+- 📫 How to reach me **mvinoth.dev@gmail.com**
 
 - ⚡ Fun fact **I watch movies a lot.**
 
