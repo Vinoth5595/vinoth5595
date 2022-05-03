@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working in **Cognizant**
+- 🔭 I’m currently working in **Encora**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
